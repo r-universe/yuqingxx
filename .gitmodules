@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "catch"]
+	path = catch
+	url = https://github.com/cran/catch
+	shallow = true
+	registered = true
+[submodule "TULIP"]
+	path = TULIP
+	url = https://github.com/cran/TULIP
+	shallow = true
+	registered = true
