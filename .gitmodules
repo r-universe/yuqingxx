@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "catch"]
-	path = catch
-	url = https://github.com/cran/catch
 [submodule "TULIP"]
 	path = TULIP
 	url = https://github.com/cran/TULIP
+[submodule "catch"]
+	path = catch
+	url = https://github.com/cran/catch
